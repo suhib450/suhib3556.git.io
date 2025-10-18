@@ -1,0 +1,4 @@
+smart-coffee/
+├── index.html        ← الصفحة الرئيسية
+├── contact.html      ← صفحة تواصل معنا
+└── styles.css        ← التنسيقات
