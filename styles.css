@@ -9,7 +9,7 @@ body {
 /* الرأس */
 header {
     background-color: #6f4e37;
-    color: white;
+    color: blue;
     padding: 20px;
     text-align: center;
 }
@@ -38,7 +38,7 @@ header nav a:hover {
 }
 
 .product {
-    background-color: white;
+    background-color: blue;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -63,7 +63,7 @@ header nav a:hover {
 
 .product button {
     background-color: #6f4e37;
-    color: white;
+    color: blue;
     border: none;
     padding: 10px 20px;
     margin: 10px;
@@ -79,7 +79,7 @@ header nav a:hover {
 /* الفوتر */
 footer {
     background-color: #333;
-    color: white;
+    color: blue;
     text-align: center;
     padding: 10px;
 }
@@ -89,7 +89,7 @@ footer {
     padding: 30px;
     max-width: 600px;
     margin: auto;
-    background-color: white;
+    background-color: blue;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     border-radius: 8px;
 }
@@ -120,7 +120,7 @@ footer {
 .contact button {
     margin-top: 15px;
     background-color: #6f4e37;
-    color: white;
+    color: blue;
     border: none;
     padding: 10px;
     font-weight: bold;
@@ -130,6 +130,7 @@ footer {
 .contact button:hover {
     background-color: #5a3e2c;
 }
+
 
 
 
